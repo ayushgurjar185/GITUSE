@@ -9,6 +9,8 @@ git add
 git commit
 git push
 git pull
-git show
+git show file name --- to check specific logs
 git remote add ------ use to add the
-local repo to a remote repo
+local repo to a remote repo !!
+git diff
+
