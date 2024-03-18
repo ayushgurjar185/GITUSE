@@ -1,1 +1,14 @@
 This is an first example of the GIT
+
+this the commands
+git clone
+git init
+git log
+git show
+git add
+git commit
+git push
+git pull
+git show
+git remote add ------ use to add the
+local repo to a remote repo
