@@ -13,4 +13,7 @@ git show file name --- to check specific logs
 git remote add ------ use to add the
 local repo to a remote repo !!
 git diff
+git revert "logfile":- we can use th
+is to revert the change of the file and folder
+
 git restore --staged "Filename"
