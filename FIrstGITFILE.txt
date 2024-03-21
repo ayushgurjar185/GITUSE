@@ -15,6 +15,7 @@ local repo to a remote repo !!
 git diff
 git revert "logfile":- we can use the
 is to revert the change of the file and folder
-this is the new line today
+this is the new line today's
+this is the second line
 
 git restore --staged "Filename"
